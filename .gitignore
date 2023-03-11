@@ -1,0 +1,16 @@
+# Vim File
+*.swp
+
+# Krita
+.*.kra-autosave.kra
+*.kra~
+
+## Blender
+*.blend1
+
+## Word
+~*.docx
+
+## Other
+'~'.*
+*.tmp

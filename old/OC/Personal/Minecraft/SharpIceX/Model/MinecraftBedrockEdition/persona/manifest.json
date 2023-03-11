@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "SharpIceX Skins",
+		"description": "SharpIceX 皮肤",
+		"uuid": "9f142752-4f3f-11ed-a695-1b2af65f8274",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [{
+		"type": "skin_pack",
+		"description": "SharpIceX 皮肤",
+		"uuid": "ae3691b6-4f3f-11ed-99ef-17dfe37e7752",
+		"version": [
+			1,
+			0,
+			0
+		]
+	}]
+
+}

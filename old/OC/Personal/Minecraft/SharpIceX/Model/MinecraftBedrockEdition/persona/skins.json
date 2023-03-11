@@ -1,0 +1,11 @@
+{
+	"skins": [{
+			"localization_name": "Skins",
+			"geometry": "geometry.sharpicex",
+			"texture": "Skins.png",
+			"type": "free"
+		}
+	],
+	"serialize_name": "SIS",
+	"localization_name": "SIS"
+}
